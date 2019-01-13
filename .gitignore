@@ -1,0 +1,7 @@
+#Zip files
+
+*.zip
+
+#Word documents
+*.doc
+*.docx
